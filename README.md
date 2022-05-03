@@ -45,6 +45,7 @@ MIT App Inventor - ferramenta baseada em nuvem para criação de aplicativos onl
 ----
 
 #### **Contribuições Pessoais**
+
 Desenvolvi a tela onde o usuário obtém informações à respeito do conforto do animal atráves de um cálculo baseado na temperatura, umidade do ar, velocidade do vento e pressão atmosférica, resultando em três possíveis estados: conforto, alerta, perigo.
 
 ----
@@ -70,7 +71,7 @@ Trabalho em equipe.
 
  O desafio do projeto foi proposto pela Fatec juntamente com a Iacit, empresa de soluções tecnológicas, que foi nossa parceira durante esse semestre.
 
-Foi desenvolvido um sistema em Java para desktop, que permitisse o gerenciamento de entegas feitas por caminhão. Por meio do sistema é possível obter informações sobre o motorista, veículo, tempo previsto para a entrega e se já foi concluida.
+Foi desenvolvido um sistema em Java para desktop, que permitisse o gerenciamento de entegas feitas por caminhão. Por meio do sistema é possível obter informações sobre o motorista, veículo, tempo previsto para a entrega e se o percurso já foi concluido.
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](github.com/LeticiaSan/Projeto-Jornada-de-Motorista---Time-2)
 
@@ -110,13 +111,15 @@ Trabalho em equipe, gerenciamento de tempo, liderança.
 ### **Em 2021-1**
 
 ***Sobre o Projeto***
-O desafio do projeto foi proposto pela Fatec juntamente com a NESS,empresa brasileira de tecnologia, que foi nossa parceira durante esse semestre.
+
+O desafio do projeto foi proposto pela Fatec juntamente com a NESS, empresa brasileira de tecnologia, que foi nossa parceira durante esse semestre.
 
 Foi desenvolvido uma plataforma Web LMS (Learning Management System). A plataforma permite a comunicação entre alunos e professores, e disponibiliza uma grade de cursos aos usuários.
 
 ----
 
 #### **Tecnologias Utilizadas**
+
 Prototipação do projeto - foi utilizado a plataforma web Figma para a montagem dos Wireframes do projeto.
 
 Programação - o Front-end foi feito em Javascript com o framework React. O Back-end foi desenvolvido em Java e com inicializador Spring boot.
@@ -135,6 +138,14 @@ Desenvolvimento de Query SQL utilizando PostgreSQL - sei fazer com ajuda.
 
 Metodologia Scrum - sei fazer com autonomia.
 
+----
+
+## **Soft Skills**
+
+Trabalho em equipe, gerenciamento de tempo, liderança, planejamento, comunicação.
+
+----
+
 ## **Meus Principais Conhecimentos**
 
 * Aplicação de programação orientada à objetos utilizando a liguagem Java e TypeScript.
@@ -143,6 +154,7 @@ Metodologia Scrum - sei fazer com autonomia.
 
 * Liguagens de programação, Java, C#, Pyhton, Typescript.
 
+----
 
 ## **Contatos**
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](github.com/LeticiaSan)
