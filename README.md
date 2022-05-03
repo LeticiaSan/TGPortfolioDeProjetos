@@ -9,12 +9,14 @@ Atualmente sou estagiária de desenvolvimento da empresa Ericsson Telecomunicaç
 Competências:
 
  * Programação (Java, C, C#,
-Python, JavaScript, PHP, TypeScript);
+Python, Javascript, Typescript);
 
 * Banco de Dados (MySQL, PostgreeSql);
 
 * Gestão de Projetos (Método
 Scrum).
+
+----
 
 ## Meus Projetos
 
@@ -103,6 +105,7 @@ Metodologia Scrum - sei fazer com autonomia.
 #### **Soft Skills**
 Trabalho em equipe, gerenciamento de tempo, liderança.
 
+----
 
 ### **Em 2021-1**
 
@@ -111,12 +114,16 @@ O desafio do projeto foi proposto pela Fatec juntamente com a NESS,empresa brasi
 
 Foi desenvolvido uma plataforma Web LMS (Learning Management System). A plataforma permite a comunicação entre alunos e professores, e disponibiliza uma grade de cursos aos usuários.
 
+----
+
 #### **Tecnologias Utilizadas**
 Prototipação do projeto - foi utilizado a plataforma web Figma para a montagem dos Wireframes do projeto.
 
 Programação - o Front-end foi feito em Javascript com o framework React. O Back-end foi desenvolvido em Java e com inicializador Spring boot.
 
-Banco de dados - foi utilizado PostgreSQL para o desenvolvimento do banco de dados da plataforma de ensino. 
+Banco de dados - foi utilizado PostgreSQL para o desenvolvimento do banco de dados da plataforma de ensino.
+
+----
 
 #### **Hard Skills**
 
@@ -127,6 +134,14 @@ Programação em Javascript com o framework React para páginas Web - sei fazer 
 Desenvolvimento de Query SQL utilizando PostgreSQL - sei fazer com ajuda.
 
 Metodologia Scrum - sei fazer com autonomia.
+
+## **Meus Principais Conhecimentos**
+
+* Aplicação de programação orientada à objetos utilizando a liguagem Java e TypeScript.
+
+* Desenvovimento de Front-end utilizando Javascript com os frameworks React e React Native, além de HTML e CSS.
+
+* Liguagens de programação, Java, C#, Pyhton, Typescript.
 
 
 ## **Contatos**
