@@ -1,7 +1,6 @@
 # Letícia Nascimento Santos
 ## Introdução
 
-![Foto perfil](https://media.discordapp.net/attachments/829118904005558292/960375722931810365/IMG_20210516_150257_040.jpg?width=473&height=473)
 
 Sou técnica em informática, formada pelo curso médio/técnico pela Etec São José dos Campos.
 
@@ -23,52 +22,17 @@ Scrum).
 
 ***Sobre o Projeto***
 
-Foi proposto ao nosso grupo desenvolver um aplicativo utilizando programação em blocos, tivemos que abordar um problema real, para aplicarmos nossa solução, não havia empresa externa parceira, apenas as orientação dos professores da FATEC.
+Foi proposto ao nosso grupo desenvolver um aplicativo utilizando programação em blocos, tivemos que abordar um problema real para aplicarmos nossa solução, não havia empresa externa parceira, apenas as orientação dos professores da FATEC.
+
+A Granja do Futuro é um aplicativo de Gestão de Propriedade que tem em foco o conforto e bem-estar animal. As informações que são obtidas no aplicativo são aquelas referente ao clima, uma vez que este afeta diretamente na produção, saúde, conforto e bem estar dos animais.
+
+Com os dados obtidos, é realizado o cálculo da entalpia específica – um índice físico que indica se o animal está dentro da sua zona de termoneutralidade, ou seja, permitindo ao produtor tomar decisões acerca do sistema de arrefecimento da granja para garantir a produtividade e melhor aproveitamento dos recursos, bem como diminuir o gasto energético uma vez que só irá usar o sistema de arrefecimento em casos de necessidade.
+
+
+![Tela de Inserção de dados do clima](https://media.discordapp.net/attachments/829118904005558292/960357534546395196/3.PNG?width=266&height=473)
+![Tela do resultado obtido pelo cálculo de coforto do animal](https://media.discordapp.net/attachments/829118904005558292/960357589873471508/4.PNG?width=267&height=473)
 
 ----
-
-***Problema***
-
-Um produtor de ovos de galinha, precisa obter conhecimento sobre o clima para tomar as melhores decisões referentes ao arrefecimento de sua granja, garantindo assim o melhor aproveitamento dos recursos, porém, sem tecnologias específicas para isso, é difícil saber com precisão se o animal está dentro da sua zona de termoneutralidade.
-
-----
-
-***Solução***
-
-A Granja do Futuro é um aplicativo de Gestão de Propriedade que tem foco, não apenas no desempenho zootécnico, mas no conforto e bem-estar animal. Com ele, o produtor terá acesso a dados financeiros – como valor do dólar, do ovo e dos insumos, bem como poderá gerar relatórios sobre sua propriedade.
-
-O app será dividido em duas áreas: animal e propriedade.
-Na área destinada aos animais o produtor obterá as mesmas informações, porém de três formas diferentes (i) automática, (ii) manual e (iii) previsão.
-As informações que serão obtidas na área animal são aquelas referente ao clima, uma vez que este afeta diretamente na produção, saúde, conforto e bem estar dos animais.
-Serão obtidos informações de: temperatura do ar (ºC), umidade relativa (%), velocidade do vento (m/s) e pressão atmosférica (atm).
-
-![](https://cdn.discordapp.com/attachments/829118904005558292/960330743370874890/unknown.png)
-
-
-Com estes dados, será realizado o cálculo da entalpia específica Kj/kg de ar seco) – um índice físico que indica se o animal está dentro da sua zona de termoneutralidade, ou seja, permitirá ao produtor tomar decisões acerca do sistema de arrefecimento da granja para garantir a produtividade e melhor aproveitamento dos recursos, bem como diminuir o gasto energético uma vez que só irá usar o sistema de arrefecimento em casos de necessidade.
-
-Para os dados automáticos e previsões, será utilizada uma API que permite acessar dados do site ClimaTempo, podendo esses resultados serem obtidos automaticamente no momento que o produtor acessar o app (automático) ou ele poderá prever num intervalo de 5 dias (previsão). 
-
-Já no manual, o produtor insere os dados e obtém a resposta.
-O resultado da análise de entalpia específica será dividida em 4 faixas conforme definido pelos pesquisadores do Núcleo de Pesquisa em Ambiência (NUPEA/ESALQ/USP) sendo: (i) conforto, (ii) estresse leve, (iii) estresse moderado, (iv) perigo.
-O cálculo da entalpia será desenvolvido conforme equação:
-
-
-![Cálculo de entalpia](https://cdn.discordapp.com/attachments/829118904005558292/960332942402543626/unknown.png)
-
-
-O produtor não verá o resultado da equação, uma vez que é um índice físico com conceitos de transferência de calor que seria de difícil entendimento por parte do usuário. Este saberá, apenas, o estado de conforto em que seu animal está.
-
-
-![Tela de resultado obtido a partir do cálculo de entalpia](https://cdn.discordapp.com/attachments/829118904005558292/960331042596749332/unknown.png)
-
-
-O produtor terá, ainda, a opção de cruzar informações entre produtividade e conforto de forma que possa enxergar que garantir uma maior qualidade de vida ao animal, pode influenciar diretamente na sua produção e produtividade.
-
-
-![](https://media.discordapp.net/attachments/829118904005558292/960331405664063528/unknown.png)
-![](https://media.discordapp.net/attachments/829118904005558292/960331426081964032/unknown.png)
-![](https://cdn.discordapp.com/attachments/829118904005558292/960331447795847248/unknown.png)
 
 #### **Tecnologias Utilizadas**
 
@@ -76,29 +40,70 @@ Programação em blocos - uma metodologia criada para o ensino de conceitos inic
 
 MIT App Inventor - ferramenta baseada em nuvem para criação de aplicativos online. Esse site foi utilizado para desenvolvimento do aplicativo utilizando programação em blocos, e para o desenvolvimento da parte visual.
 
-![AppInventorBlocos](https://media.discordapp.net/attachments/829118904005558292/960355176965898240/unknown.png?width=836&height=473)
-
-![AppInventorDesign](https://media.discordapp.net/attachments/829118904005558292/960355230199984149/unknown.png?width=843&height=473) 
-
 ----
 
 #### **Contribuições Pessoais**
 Desenvolvi a tela onde o usuário obtém informações à respeito do conforto do animal atráves de um cálculo baseado na temperatura, umidade do ar, velocidade do vento e pressão atmosférica, resultando em três possíveis estados: conforto, alerta, perigo.
 
-![Tela de Inserção de dados do clima](https://media.discordapp.net/attachments/829118904005558292/960357534546395196/3.PNG?width=266&height=473)
-![Tela do resultado obtido pelo cálculo de coforto do animal](https://media.discordapp.net/attachments/829118904005558292/960357589873471508/4.PNG?width=267&height=473)
-
 ----
 
 #### **Hard Skills**
+
 Programação em Blocos - sei fazer com autonomia.
+
+Metodologia Scrum - sei fazer com autonomia.
 
 ----
 
 #### **Soft Skills**
-Primeiro contato com a metodologia Scrum, melhora na comunicação com o time e melhor organização para otimização do tempo de desenvolvimento do projeto.
+Trabalho em equipe.
+
 
 ----
+
+
+### **Em 2020-2**
+
+***Sobre o Projeto***
+
+ O desafio do projeto foi proposto pela Fatec juntamente com a Iacit, empresa de soluções tecnológicas, que foi nossa parceira durante esse semestre.
+
+Foi desenvolvido um sistema em Java para desktop, que permitisse o gerenciamento de entegas feitas por caminhão. Por meio do sistema é possível obter informações sobre o motorista, veículo, tempo previsto para a entrega e se já foi concluida.
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](github.com/LeticiaSan/Projeto-Jornada-de-Motorista---Time-2)
+
+![](https://cdn.discordapp.com/attachments/748503719519322153/767501698360672256/unknown.png?raw=true)
+
+----
+
+#### **Tecnologias Utilizadas**
+
+Prototipação do projeto - foi utilizado a plataforma web Figma para a montagem dos Wireframes do projeto.
+
+Hibernate, Java - utilizamos o Hibernate para o mapeamento de objeto-relacional e Java para o desenvolvimento geral do Sistema.
+
+----
+
+#### **Hard Skills**
+
+Montagem de Wireframes pela plataforma Figma - sei fazer com autonomia.
+
+Mapeamento objeto-relacional com Hibernate - sei fazer com ajuda.
+
+Paradigma de orientação à objeto em Java - sei fazer com autonomia.
+
+Montagem de diagramas MER e DER - sei fazer com autonomia.
+
+Desenvolvimento de Query SQL utilizando PostgreSQL - sei fazer com ajuda.
+
+Metodologia Scrum - sei fazer com autonomia.
+
+----
+
+#### **Soft Skills**
+Trabalho em equipe, gerenciamento de tempo, liderança.
+
+
 
 ## **Contatos**
 * [GIT](https://github.com/LeticiaSan)
