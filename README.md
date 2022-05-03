@@ -116,6 +116,10 @@ O desafio do projeto foi proposto pela Fatec juntamente com a NESS, empresa bras
 
 Foi desenvolvido uma plataforma Web LMS (Learning Management System). A plataforma permite a comunicação entre alunos e professores, e disponibiliza uma grade de cursos aos usuários.
 
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaSan/Plataforma-de-Ensino---Time-1)
+
+![](https://i.imgur.com/snLjx1v.png)
+
 ----
 
 #### **Tecnologias Utilizadas**
@@ -140,7 +144,7 @@ Metodologia Scrum - sei fazer com autonomia.
 
 ----
 
-## **Soft Skills**
+### **Soft Skills**
 
 Trabalho em equipe, gerenciamento de tempo, liderança, planejamento, comunicação.
 
