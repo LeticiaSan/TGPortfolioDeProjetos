@@ -80,7 +80,7 @@ Foi desenvolvido um sistema em Java para desktop, que permitisse o gerenciamento
 
 Prototipação do projeto - foi utilizado a plataforma web Figma para a montagem dos Wireframes do projeto.
 
-Hibernate, Java - utilizamos o Hibernate para o mapeamento de objeto-relacional e Java para o desenvolvimento geral do Sistema.
+Programação - foi utilizado o Hibernate para o mapeamento de objeto-relacional e Java para o desenvolvimento geral do Sistema.
 
 ----
 
@@ -104,9 +104,34 @@ Metodologia Scrum - sei fazer com autonomia.
 Trabalho em equipe, gerenciamento de tempo, liderança.
 
 
+### **Em 2021-1**
+
+***Sobre o Projeto***
+O desafio do projeto foi proposto pela Fatec juntamente com a NESS,empresa brasileira de tecnologia, que foi nossa parceira durante esse semestre.
+
+Foi desenvolvido uma plataforma Web LMS (Learning Management System). A plataforma permite a comunicação entre alunos e professores, e disponibiliza uma grade de cursos aos usuários.
+
+#### **Tecnologias Utilizadas**
+Prototipação do projeto - foi utilizado a plataforma web Figma para a montagem dos Wireframes do projeto.
+
+Programação - o Front-end foi feito em Javascript com o framework React. O Back-end foi desenvolvido em Java e com inicializador Spring boot.
+
+Banco de dados - foi utilizado PostgreSQL para o desenvolvimento do banco de dados da plataforma de ensino. 
+
+#### **Hard Skills**
+
+Montagem de Wireframes pela plataforma Figma - sei fazer com autonomia.
+
+Programação em Javascript com o framework React para páginas Web - sei fazer com ajuda.
+
+Desenvolvimento de Query SQL utilizando PostgreSQL - sei fazer com ajuda.
+
+Metodologia Scrum - sei fazer com autonomia.
+
 
 ## **Contatos**
-* [GIT](https://github.com/LeticiaSan)
-* [LinkedIn](https://www.linkedin.com/in/let%C3%ADcia-santos-731a451a3/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](github.com/LeticiaSan)
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/let%C3%ADcia-santos-731a451a3/)
 
 
