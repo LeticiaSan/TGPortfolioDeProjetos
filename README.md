@@ -4,17 +4,16 @@
 
 Sou técnica em informática, formada pelo curso médio/técnico pela Etec São José dos Campos.
 
-Atualmente sou estagiária de desenvolvimento da empresa Ericsson Telecomunicações, desenvolvo softwares com as linguagens Java, Javascript. Trabalho com o conjunto de comportamentos, processos, práticas e ferramentas utilizados para a criação de produto (Metodologia Ágil). Faço teste de classes, validação de campos de atributo, teste automatizados e teste robot.
+Atualmente sou estagiária de desenvolvimento da empresa Ericsson Telecomunicações, desenvolvo softwares com as linguagens Java, Javascript. Trabalho com o conjunto de comportamentos, processos, práticas e ferramentas utilizados para a criação de produto (Metodologia Ágil). Faço teste de classes, validação de campos de atributo, teste automatizados e testes robot.
 
 Competências:
 
  * Programação (Java, C, C#,
 Python, Javascript, Typescript);
 
-* Banco de Dados (MySQL, PostgreeSql);
+* Banco de Dados (MySQL, PostgreeSql, MongoDB);
 
-* Gestão de Projetos (Método
-Scrum).
+* Gestão de Projetos (Metodologia Ágil).
 
 ----
 
