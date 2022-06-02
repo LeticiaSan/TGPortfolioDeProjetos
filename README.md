@@ -36,17 +36,17 @@ Com os dados obtidos, é realizado o cálculo da entalpia específica – um ín
 
 ----
 
+#### **Contribuições Pessoais**
+
+Desenvolvi a tela onde o usuário obtém informações à respeito do conforto do animal atráves de um cálculo baseado na temperatura, umidade do ar, velocidade do vento e pressão atmosférica, resultando em três possíveis estados: conforto, alerta, perigo.
+
+----
+
 #### **Tecnologias Utilizadas**
 
 Programação em blocos - uma metodologia criada para o ensino de conceitos iniciais ligados à programação. Cada bloco representa uma linha de código de uma linguagem de programação usual. Essa metodologia foi usada para o desenvolvimento total da lógica do aplicativo.
 
 MIT App Inventor - ferramenta baseada em nuvem para criação de aplicativos online. Esse site foi utilizado para desenvolvimento do aplicativo utilizando programação em blocos, e para o desenvolvimento da parte visual.
-
-----
-
-#### **Contribuições Pessoais**
-
-Desenvolvi a tela onde o usuário obtém informações à respeito do conforto do animal atráves de um cálculo baseado na temperatura, umidade do ar, velocidade do vento e pressão atmosférica, resultando em três possíveis estados: conforto, alerta, perigo.
 
 ----
 
@@ -76,6 +76,12 @@ Foi desenvolvido um sistema em Java para desktop, que permitisse o gerenciamento
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](github.com/LeticiaSan/Projeto-Jornada-de-Motorista---Time-2)
 
 ![](https://cdn.discordapp.com/attachments/748503719519322153/767501698360672256/unknown.png?raw=true)
+
+----
+
+#### **Contribuições Pessoais**
+
+Desenvolvi o protótipo total do projeto. Desenvolvi o Banco de dados. Auxiliei no desenvolvimento da interface do aplicativo.
 
 ----
 
@@ -122,6 +128,13 @@ Foi desenvolvido uma plataforma Web LMS (Learning Management System). A platafor
 
 ----
 
+#### **Contribuições Pessoais**
+
+Desenvolvi o protótipo total do projeto.
+Fui responsável pelo o desenvolvimento Front-end da página inicial da plataforma Web, e a página onde os cursos disponibilizados ao usuário são listados. 
+
+----
+
 #### **Tecnologias Utilizadas**
 
 Prototipação do projeto - foi utilizado a plataforma web Figma para a montagem dos Wireframes do projeto.
@@ -150,6 +163,99 @@ Trabalho em equipe, gerenciamento de tempo, liderança, planejamento, comunicaç
 
 ----
 
+### **Em 2021-2**
+
+***Sobre o Projeto***
+
+O desafio do Projeto foi proposto pela Fatec juntamente com a Embraer, empresa brasileira de Aeronáutica, que foi nossa parceira durante esse semestre.
+
+Foi desenvolvido uma plataforma Web para gerenciamento de arquivos no formato PDF. A principal funcionalidade do sistema se baseia em *Codelists*, que são tabelas contendo dados que pode ser inseridos, modificados e excluídos. Nosso sistema permite o cadastro de *Codelists*, e a partir dos dados de um *Codelist* é gerado um arquivo no formato PDF, contendo uma nova versão desse PDF para cada atualização de seu respectivo *Codelist.*
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaSan/Personaliza-o-de-Documentos--Time-AirGhost)
+
+![](https://cdn.discordapp.com/attachments/829529495886888990/896936763195531325/unknown.png)
+
+----
+
+#### **Contribuições Pessoais**
+
+Desenvolvi o protótipo total do projeto.
+Fui responsável para o desenvolvimento Front-end da página inicial da plataforma Web e contribuí para o desenvolvimento da tela do cadastro do codelist. Fui responsável pela criação do Banco de dados.
+
+----
+#### **Tecnologias Utilizadas**
+
+Prototipação do projeto - foi utilizado a plataforma web Figma para a montagem dos Wireframes do projeto.
+
+Programação - o Front-end foi feito em Javascript com o framework React. O Back-end foi desenvolvido em Typescript e com framework Node.js.
+
+Banco de dados - foi utilizado PostgreSQL para o desenvolvimento do banco de dados.
+
+----
+#### **Hard Skills**
+
+Montagem de Wireframes pela plataforma Figma - sei fazer com autonomia.
+
+Programação em Javascript com o framework React para páginas Web - sei fazer com ajuda.
+
+Programação em Typescript com framework Node.js - sei fazer com ajuda.
+
+Desenvolvimento de Query SQL utilizando PostgreSQL - sei fazer com ajuda.
+
+Metodologia Scrum - sei fazer com autonomia.
+
+----
+
+### **Soft Skills**
+
+Trabalho em equipe, gerenciamento de entregas de valor, liderança, comunicação.
+
+----
+
+### **Em 2022-1**
+
+***Sobre o Projeto***
+
+O desafio do Projeto foi proposto pela Fatec juntamente com a Embraer, empresa brasileira de Aeronáutica, que foi nossa parceira durante esse semestre.
+
+Foi desenvolvido um aplicativo mobile com o público-alvo motoristas de carros fornecidos pela empresa. O aplicativo tem como objetivo dar acesso ao motorista documentos com procedimentos-padrão em caso de problema com seu veículo. O usuário tem acesso à uma lista com todos o seus veículos e todos os documentos relacionados à esses veículos.
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AirghostTeamAPI)
+
+![](https://media.discordapp.net/attachments/829118904005558292/981724749879214110/unknown.png)
+
+----
+
+#### **Contribuições Pessoais**
+
+Desenvolvi o protótipo total do projeto. Desenvolvi a tela de listagem de veículos do usuário, auxiliei no desenvolvimento da tela de listagem de documentos do veículo.
+
+----
+
+#### **Tecnologias Utilizadas**
+
+Prototipação do projeto - foi utilizado a plataforma web Figma para a montagem dos Wireframes do projeto.
+
+Programação - o Front-end foi feito em Javascript com o framework para aplicativos mobile ReactNative. O Back-end foi desenvolvido em Javascript e com framework Node.js.
+
+Banco de dados - foi utilizado MongoDb para o desenvolvimento do banco de dados não-relacional.
+
+----
+#### **Hard Skills**
+
+Montagem de Wireframes pela plataforma Figma - sei fazer com autonomia.
+
+Programação em Javascript com o framework ReactNative para mobile - sei fazer.
+
+Metodologia Scrum - sei fazer com autonomia.
+
+----
+
+### **Soft Skills**
+
+Trabalho em equipe, distribuição proporcinal de tarefas, gerenciamento de entregas de valor, gerenciamento de tempo, liderança, comunicação.
+
+----
 ## **Meus Principais Conhecimentos**
 
 * Aplicação de programação orientada à objetos utilizando a liguagem Java e TypeScript.
