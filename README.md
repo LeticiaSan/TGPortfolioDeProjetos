@@ -1,15 +1,18 @@
 # Letícia Nascimento Santos
-## Introdução
+## Sobre mim
 
+<img src="https://user-images.githubusercontent.com/62018632/172281589-1a70f63f-bf88-434a-b728-ae36c6edb737.jpg" width="250px">
 
-Sou técnica em informática, formada pelo curso médio/técnico pela Etec São José dos Campos.
-
-Atualmente sou estagiária de desenvolvimento da empresa Ericsson Telecomunicações, desenvolvo softwares com as linguagens Java, Javascript. Trabalho com o conjunto de comportamentos, processos, práticas e ferramentas utilizados para a criação de produto (Metodologia Ágil). Faço teste de classes, validação de campos de atributo, teste automatizados e testes robot.
+- Formada no ensino médio/técnico em informática pela Etec São José dos Campos
+- Graduando o curso tecnológo Análise e Desenvolvimento de Sistemas pela Fatec São José dos Campos.
+- Estagiária de desenvolvomento na empresa Ericsson Telecomunicações.
 
 Competências:
 
  * Programação (Java, C, C#,
 Python, Javascript, Typescript);
+
+* Frameworks(React, React Native)
 
 * Banco de Dados (MySQL, PostgreeSql, MongoDB);
 
@@ -23,9 +26,11 @@ Python, Javascript, Typescript);
 
 ***Sobre o Projeto***
 
-Foi proposto ao nosso grupo desenvolver um aplicativo utilizando programação em blocos, tivemos que abordar um problema real para aplicarmos nossa solução, não havia empresa externa parceira, apenas as orientação dos professores da FATEC.
+O projeto foi desenvolvido por um grupo de 5 pessoas, incluindo eu, atuando com a função de desenvolvedor.
 
-A Granja do Futuro é um aplicativo de Gestão de Propriedade que tem em foco o conforto e bem-estar animal. As informações que são obtidas no aplicativo são aquelas referente ao clima, uma vez que este afeta diretamente na produção, saúde, conforto e bem estar dos animais.
+Foi proposto ao nosso grupo desenvolver um aplicativo utilizando programação em blocos, tivemos que abordar um problema real para aplicarmos nossa solução, o problema e a solução foi abordada pelo time e aprovada pelos nossos professores orientadores da Fatec.
+
+A Granja do Futuro é um aplicativo de Gestão de Propriedade que tem em foco o conforto e bem-estar animal. As informações que são obtidas no aplicativo são aquelas referente ao clima, uma vez que este afeta diretamente na produção, saúde, conforto e bem estar dos animais. Os dados referente ao clima são inseridos manualmente no aplicativo pelo usuário.
 
 Com os dados obtidos, é realizado o cálculo da entalpia específica – um índice físico que indica se o animal está dentro da sua zona de termoneutralidade, ou seja, permitindo ao produtor tomar decisões acerca do sistema de arrefecimento da granja para garantir a produtividade e melhor aproveitamento dos recursos, bem como diminuir o gasto energético uma vez que só irá usar o sistema de arrefecimento em casos de necessidade.
 
@@ -67,6 +72,8 @@ Trabalho em equipe.
 ### **Em 2020-2**
 
 ***Sobre o Projeto***
+
+O projeto foi desenvolvido por um grupo de 5 pessoas, incluindo eu, atuando com a função de Scrum Master.
 
  O desafio do projeto foi proposto pela Fatec juntamente com a Iacit, empresa de soluções tecnológicas, que foi nossa parceira durante esse semestre.
 
@@ -117,6 +124,8 @@ Trabalho em equipe, gerenciamento de tempo, liderança.
 
 ***Sobre o Projeto***
 
+O projeto foi desenvolvido por um grupo de 5 pessoas, incluindo eu, atuando com a função de Scrum Master.
+
 O desafio do projeto foi proposto pela Fatec juntamente com a NESS, empresa brasileira de tecnologia, que foi nossa parceira durante esse semestre.
 
 Foi desenvolvido uma plataforma Web LMS (Learning Management System). A plataforma permite a comunicação entre alunos e professores, e disponibiliza uma grade de cursos aos usuários.
@@ -166,6 +175,8 @@ Trabalho em equipe, gerenciamento de tempo, liderança, planejamento, comunicaç
 
 ***Sobre o Projeto***
 
+O projeto foi desenvolvido por um grupo de 5 pessoas, incluindo eu, atuando com a função de Scrum Master.
+
 O desafio do Projeto foi proposto pela Fatec juntamente com a Embraer, empresa brasileira de Aeronáutica, que foi nossa parceira durante esse semestre.
 
 Foi desenvolvido uma plataforma Web para gerenciamento de arquivos no formato PDF. A principal funcionalidade do sistema se baseia em *Codelists*, que são tabelas contendo dados que pode ser inseridos, modificados e excluídos. Nosso sistema permite o cadastro de *Codelists*, e a partir dos dados de um *Codelist* é gerado um arquivo no formato PDF, contendo uma nova versão desse PDF para cada atualização de seu respectivo *Codelist.*
@@ -214,6 +225,8 @@ Trabalho em equipe, gerenciamento de entregas de valor, liderança, comunicaçã
 ### **Em 2022-1**
 
 ***Sobre o Projeto***
+
+O projeto foi desenvolvido por um grupo de 7 pessoas, incluindo eu, atuando com a função de Scrum Master.
 
 O desafio do Projeto foi proposto pela Fatec juntamente com a Embraer, empresa brasileira de Aeronáutica, que foi nossa parceira durante esse semestre.
 
