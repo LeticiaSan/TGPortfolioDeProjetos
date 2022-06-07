@@ -81,7 +81,7 @@ Foi desenvolvido um sistema em Java para desktop, que permitisse o gerenciamento
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](github.com/LeticiaSan/Projeto-Jornada-de-Motorista---Time-2)
 
-![](https://cdn.discordapp.com/attachments/748503719519322153/767501698360672256/unknown.png?raw=true)
+![](https://cdn.discordapp.com/attachments/783201424355885078/983562985534533672/unknown.png)
 
 ----
 
