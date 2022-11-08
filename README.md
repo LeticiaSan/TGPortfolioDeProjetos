@@ -1,8 +1,6 @@
 # Letícia Nascimento Santos
 ## Sobre mim
 
-<img src="https://user-images.githubusercontent.com/62018632/172281589-1a70f63f-bf88-434a-b728-ae36c6edb737.jpg" width="250px">
-
 - Formada no ensino médio/técnico em informática pela Etec São José dos Campos
 - Graduando o curso tecnológo Análise e Desenvolvimento de Sistemas pela Fatec São José dos Campos.
 - Estagiária de desenvolvomento na empresa Ericsson Telecomunicações.
