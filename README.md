@@ -266,6 +266,55 @@ Metodologia Scrum - sei fazer com autonomia.
 Trabalho em equipe, distribuição proporcinal de tarefas, gerenciamento de entregas de valor, gerenciamento de tempo, liderança, comunicação.
 
 ----
+
+### **Em 2022-2**
+
+***Sobre o Projeto***
+
+O projeto foi desenvolvido por um grupo de 8 pessoas, incluindo eu, atuando com a função de Scrum Master.
+
+O desafio do Projeto foi proposto pela Fatec juntamente com a Visiona, empresa de tecnologia espacial, que foi nossa parceira durante esse semestre.
+
+Foi desenvolvido uma IA (Inteligência artificial) para a classisficação de vagens de soja em imagens fotográficas. Foi usado como partida um aplicativo já desenvolvido para controle de safra voltado para agricultores de soja, foi adicionado à esse aplicativo a funcionalidade de mapear as vagens e estimar sua quantidade por meio de fotos de amostras coletadas pelo usuário, para isso, sendo usado uma IA desenvolvida e treinada pelo grupo.
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agroghosts/eSoja)
+
+----
+
+#### **Contribuições Pessoais**
+
+Desenvolvi o protótipo das telas que tiveram modificações dentro do Aplicativo. Desenvolvi a tela de listagem das amostras já coletadas e seus respectivos dados gerados pelo mapeamento da IA, auxiliei o treinamendo da IA para aumentar sua precisão.
+
+----
+
+#### **Tecnologias Utilizadas**
+
+Prototipação do projeto - foi utilizado a plataforma web Figma para a montagem dos Wireframes do projeto.
+
+Biblioteca da IA - Foi utilizado a biblioteca Detectron 2 do *Facebook AI*, que fornece algoritmos de detecção e segmentação.
+
+Programação do Aplicativo - o Front-end foi feito em Javascript com o framework para aplicativos mobile ReactNative. O Back-end foi desenvolvido em Javascript e com framework Node.js.
+
+----
+
+#### **Hard Skills**
+
+Montagem de Wireframes pela plataforma Figma - sei fazer com autonomia.
+
+Metodologia Scrum - sei fazer com autonomia.
+
+Programação em Javascript com o framework ReactNative para mobile - sei fazer.
+
+Treinamento da IA - sei fazer
+
+----
+
+### **Soft Skills**
+
+Trabalho em equipe, gerenciamento de entregas de valor, gerenciamento de tempo, liderança, comunicação, responsabilidade, resolução de problemas.
+
+----
+
 ## **Meus Principais Conhecimentos**
 
 * Aplicação de programação orientada à objetos utilizando a liguagem Java e TypeScript.
@@ -277,6 +326,7 @@ Trabalho em equipe, distribuição proporcinal de tarefas, gerenciamento de entr
 ----
 
 ## **Contatos**
+
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](github.com/LeticiaSan)
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/let%C3%ADcia-santos-731a451a3/)
