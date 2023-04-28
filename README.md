@@ -20,6 +20,9 @@ Python, Javascript, Typescript);
 
 ## Meus Projetos
 
+<details>
+<summary> Em 2020-1 ✏️</summary>
+
 ### **Em 2020-1**
 
 ***Sobre o Projeto***
@@ -65,7 +68,10 @@ Trabalho em equipe.
 
 
 ----
+</details>
 
+<details>
+<summary> Em 2020-2 ✏️</summary>
 
 ### **Em 2020-2**
 
@@ -117,6 +123,10 @@ Metodologia Scrum - sei fazer com autonomia.
 Trabalho em equipe, gerenciamento de tempo, liderança.
 
 ----
+</details>
+
+<details>
+<summary> Em 2021-1 ✏️</summary>
 
 ### **Em 2021-1**
 
@@ -168,6 +178,10 @@ Metodologia Scrum - sei fazer com autonomia.
 Trabalho em equipe, gerenciamento de tempo, liderança, planejamento, comunicação.
 
 ----
+</details>
+
+<details>
+<summary> Em 2021-2 ✏️</summary>
 
 ### **Em 2021-2**
 
@@ -219,6 +233,11 @@ Metodologia Scrum - sei fazer com autonomia.
 Trabalho em equipe, gerenciamento de entregas de valor, liderança, comunicação.
 
 ----
+</details>
+
+<details>
+
+<summary> Em 2022-1 ✏️</summary>
 
 ### **Em 2022-1**
 
@@ -266,6 +285,9 @@ Metodologia Scrum - sei fazer com autonomia.
 Trabalho em equipe, distribuição proporcinal de tarefas, gerenciamento de entregas de valor, gerenciamento de tempo, liderança, comunicação.
 
 ----
+</details>
+<details>
+<summary> Em 2022-2 ✏️</summary>
 
 ### **Em 2022-2**
 
@@ -324,6 +346,7 @@ Trabalho em equipe, gerenciamento de entregas de valor, gerenciamento de tempo, 
 * Liguagens de programação, Java, C#, Pyhton, Typescript.
 
 ----
+</details>
 
 ## **Contatos**
 
