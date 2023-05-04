@@ -301,6 +301,8 @@ Foi desenvolvido uma IA (Inteligência artificial) para a classisficação de va
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agroghosts/eSoja)
 
+<img src = "https://github.com/brennorichard/FrontEnd-API2021/blob/main/assets/tela%20amostras.png" width="400"/>
+
 ----
 
 #### **Contribuições Pessoais**
