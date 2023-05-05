@@ -7,8 +7,8 @@
 
 Competências:
 
- * Programação (Java, C, C#,
-Python, Javascript, Typescript);
+ * Programação (Java, C#,
+Python, Javascript, Node.js);
 
 * Frameworks(React, React Native)
 
@@ -21,7 +21,7 @@ Python, Javascript, Typescript);
 ## Meus Projetos
 
 <details>
-<summary> Em 2020-1 ✏️</summary>
+<summary> Em 2020-1: Projeto Monitoramento de Granja 🐔</summary>
 
 ### **Em 2020-1**
 
@@ -71,19 +71,19 @@ Trabalho em equipe.
 </details>
 
 <details>
-<summary> Em 2020-2 ✏️</summary>
+<summary> Em 2020-2: Projeto Jornada de Motorista 🚚</summary>
 
 ### **Em 2020-2**
 
 ***Sobre o Projeto***
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](github.com/LeticiaSan/Projeto-Jornada-de-Motorista---Time-2)
 
 O projeto foi desenvolvido por um grupo de 5 pessoas, incluindo eu, atuando com a função de Scrum Master.
 
  O desafio do projeto foi proposto pela Fatec juntamente com a Iacit, empresa de soluções tecnológicas, que foi nossa parceira durante esse semestre.
 
 Foi desenvolvido um sistema em Java para desktop, que permitisse o gerenciamento de entegas feitas por caminhão. Por meio do sistema é possível obter informações sobre o motorista, veículo, tempo previsto para a entrega e se o percurso já foi concluido.
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](github.com/LeticiaSan/Projeto-Jornada-de-Motorista---Time-2)
 
 ![](https://cdn.discordapp.com/attachments/783201424355885078/983562985534533672/unknown.png)
 
@@ -126,19 +126,19 @@ Trabalho em equipe, gerenciamento de tempo, liderança.
 </details>
 
 <details>
-<summary> Em 2021-1 ✏️</summary>
+<summary> Em 2021-1: Projeto Plataforma de Ensino 💻</summary>
 
 ### **Em 2021-1**
 
 ***Sobre o Projeto***
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaSan/Plataforma-de-Ensino---Time-1)
 
 O projeto foi desenvolvido por um grupo de 5 pessoas, incluindo eu, atuando com a função de Scrum Master.
 
 O desafio do projeto foi proposto pela Fatec juntamente com a NESS, empresa brasileira de tecnologia, que foi nossa parceira durante esse semestre.
 
 Foi desenvolvido uma plataforma Web LMS (Learning Management System). A plataforma permite a comunicação entre alunos e professores, e disponibiliza uma grade de cursos aos usuários.
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaSan/Plataforma-de-Ensino---Time-1)
 
 ![](https://i.imgur.com/snLjx1v.png)
 
@@ -181,11 +181,13 @@ Trabalho em equipe, gerenciamento de tempo, liderança, planejamento, comunicaç
 </details>
 
 <details>
-<summary> Em 2021-2 ✏️</summary>
+<summary> Em 2021-2: Projeto Personalização de Documentos 📃</summary>
 
 ### **Em 2021-2**
 
 ***Sobre o Projeto***
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaSan/Personaliza-o-de-Documentos--Time-AirGhost)
 
 O projeto foi desenvolvido por um grupo de 5 pessoas, incluindo eu, atuando com a função de Scrum Master.
 
@@ -193,9 +195,7 @@ O desafio do Projeto foi proposto pela Fatec juntamente com a Embraer, empresa b
 
 Foi desenvolvido uma plataforma Web para gerenciamento de arquivos no formato PDF. A principal funcionalidade do sistema se baseia em *Codelists*, que são tabelas contendo dados que pode ser inseridos, modificados e excluídos. Nosso sistema permite o cadastro de *Codelists*, e a partir dos dados de um *Codelist* é gerado um arquivo no formato PDF, contendo uma nova versão desse PDF para cada atualização de seu respectivo *Codelist.*
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/LeticiaSan/Personaliza-o-de-Documentos--Time-AirGhost)
-
-![](https://cdn.discordapp.com/attachments/829529495886888990/896936763195531325/unknown.png)
+<center><img src="https://cdn.discordapp.com/attachments/811312529740922880/889322554496528434/unknown.png"></center>
 
 ----
 
@@ -237,19 +237,19 @@ Trabalho em equipe, gerenciamento de entregas de valor, liderança, comunicaçã
 
 <details>
 
-<summary> Em 2022-1 ✏️</summary>
+<summary> Em 2022-1: Projeto Notificação à Motoristas 🚗</summary>
 
 ### **Em 2022-1**
 
 ***Sobre o Projeto***
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AirghostTeamAPI)
 
 O projeto foi desenvolvido por um grupo de 7 pessoas, incluindo eu, atuando com a função de Scrum Master.
 
 O desafio do Projeto foi proposto pela Fatec juntamente com a Embraer, empresa brasileira de Aeronáutica, que foi nossa parceira durante esse semestre.
 
 Foi desenvolvido um aplicativo mobile com o público-alvo motoristas de carros fornecidos pela empresa. O aplicativo tem como objetivo dar acesso ao motorista documentos com procedimentos-padrão em caso de problema com seu veículo. O usuário tem acesso à uma lista com todos o seus veículos e todos os documentos relacionados à esses veículos.
-
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AirghostTeamAPI)
 
 ![](https://media.discordapp.net/attachments/829118904005558292/981724749879214110/unknown.png)
 
@@ -287,11 +287,13 @@ Trabalho em equipe, distribuição proporcinal de tarefas, gerenciamento de entr
 ----
 </details>
 <details>
-<summary> Em 2022-2 ✏️</summary>
+<summary> Em 2022-2: Projeto IA para Reconhecimento de Soja 🌱</summary>
 
 ### **Em 2022-2**
 
 ***Sobre o Projeto***
+
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agroghosts/eSoja)
 
 O projeto foi desenvolvido por um grupo de 8 pessoas, incluindo eu, atuando com a função de Scrum Master.
 
@@ -299,10 +301,10 @@ O desafio do Projeto foi proposto pela Fatec juntamente com a Visiona, empresa d
 
 Foi desenvolvido uma IA (Inteligência artificial) para a classisficação de vagens de soja em imagens fotográficas. Foi usado como partida um aplicativo já desenvolvido para controle de safra voltado para agricultores de soja, foi adicionado à esse aplicativo a funcionalidade de mapear as vagens e estimar sua quantidade por meio de fotos de amostras coletadas pelo usuário, para isso, sendo usado uma IA desenvolvida e treinada pelo grupo.
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agroghosts/eSoja)
-
-<img src = "https://github.com/brennorichard/FrontEnd-API2021/blob/main/assets/tela%20amostras.png" width="400"/>
-<img src="https://user-images.githubusercontent.com/62018632/194791135-c598d851-da8e-4098-aa65-2acb72c5501f.png" height="600"/>
+<center>
+<img src = "https://github.com/brennorichard/FrontEnd-API2021/blob/main/assets/tela%20amostras.png" width="350"/>
+<img src="https://user-images.githubusercontent.com/62018632/194791135-c598d851-da8e-4098-aa65-2acb72c5501f.png" height="400"/>
+</center>
 
 ----
 
