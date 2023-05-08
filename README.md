@@ -1,6 +1,6 @@
 # Letícia Nascimento Santos
 
-<center><img src = "https://cdn.discordapp.com/attachments/783201424355885078/1105122595021525122/1672569451335_2.jpg" height=150px></center>
+<img src = "https://cdn.discordapp.com/attachments/783201424355885078/1105122595021525122/1672569451335_2.jpg" height=150px>
 
 ## Sobre mim
 
@@ -68,7 +68,7 @@ Metodologia Scrum - sei fazer com autonomia.
 
 #### **Soft Skills**
 
-Trabalho em equipe para gerir as funções entre os membros.
+* Trabalho em equipe para gerir as funções entre os membros.
 
 ----
 </details>
@@ -241,11 +241,11 @@ Metodologia Scrum - sei fazer com autonomia.
 
 ### **Soft Skills**
 
-Trabalho em equipe para a divisão das tarefas do time entre os membros.
+* Trabalho em equipe para a divisão das tarefas do time entre os membros.
 
-Liderança para facilitar a divisão de tarefas entre os membros e garantir a participação de todos.
+* Liderança para facilitar a divisão de tarefas entre os membros e garantir a participação de todos.
 
-Gerenciamento de tempo para definir as prioridades em cada entrega dentro do prazo proposto.
+* Gerenciamento de tempo para definir as prioridades em cada entrega dentro do prazo proposto.
 
 ----
 </details>
@@ -289,7 +289,7 @@ Banco de dados - foi utilizado MongoDb para o desenvolvimento do banco de dados 
 
 Montagem de Wireframes pela plataforma Figma - sei fazer com autonomia.
 
-Programação em Javascript com o framework ReactNative para mobile - sei fazer.
+Programação em Javascript com o framework ReactNative para mobile - sei fazer com ajuda.
 
 Metodologia Scrum - sei fazer com autonomia.
 
