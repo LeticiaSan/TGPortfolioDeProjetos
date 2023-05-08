@@ -1,6 +1,6 @@
 # Letícia Nascimento Santos
 
-<img src = "https://cdn.discordapp.com/attachments/783201424355885078/1105122595021525122/1672569451335_2.jpg" height=150px>
+<img src = "https://cdn.discordapp.com/attachments/783201424355885078/1105122595021525122/1672569451335_2.jpg" style="border-radius: 50%; height: 150px;">
 
 ## Sobre mim
 
