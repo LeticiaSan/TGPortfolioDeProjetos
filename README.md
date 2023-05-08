@@ -1,4 +1,7 @@
 # Letícia Nascimento Santos
+
+<center><img src = "https://cdn.discordapp.com/attachments/783201424355885078/1105122595021525122/1672569451335_2.jpg" height=150px></center>
+
 ## Sobre mim
 
 - Formada no ensino médio/técnico em informática pela Etec São José dos Campos
@@ -7,7 +10,7 @@
 
 Competências:
 
- * Programação (Java, C#,
+* Programação (Java, C#,
 Python, Javascript, Node.js);
 
 * Frameworks(React, React Native)
@@ -64,8 +67,8 @@ Metodologia Scrum - sei fazer com autonomia.
 ----
 
 #### **Soft Skills**
-Trabalho em equipe.
 
+Trabalho em equipe para gerir as funções entre os membros.
 
 ----
 </details>
@@ -120,7 +123,10 @@ Metodologia Scrum - sei fazer com autonomia.
 ----
 
 #### **Soft Skills**
-Trabalho em equipe, gerenciamento de tempo, liderança.
+
+* Trabalho em equipe para a divisão das tarefas do time entre os membros.
+
+* Liderança para organizar e gerenciar as entregas do time dentro do prazo proposto.
 
 ----
 </details>
@@ -175,7 +181,12 @@ Metodologia Scrum - sei fazer com autonomia.
 
 ### **Soft Skills**
 
-Trabalho em equipe, gerenciamento de tempo, liderança, planejamento, comunicação.
+* Trabalho em equipe para a divisão das tarefas do time entre os membros.
+
+* Liderança para facilitar a divisão de tarefas entre os membros e garantir a participação de todos.
+
+* Gerenciamento de tempo para definir as prioridades em cada entrega dentro do prazo proposto.
+
 
 ----
 </details>
@@ -230,7 +241,11 @@ Metodologia Scrum - sei fazer com autonomia.
 
 ### **Soft Skills**
 
-Trabalho em equipe, gerenciamento de entregas de valor, liderança, comunicação.
+Trabalho em equipe para a divisão das tarefas do time entre os membros.
+
+Liderança para facilitar a divisão de tarefas entre os membros e garantir a participação de todos.
+
+Gerenciamento de tempo para definir as prioridades em cada entrega dentro do prazo proposto.
 
 ----
 </details>
@@ -282,7 +297,13 @@ Metodologia Scrum - sei fazer com autonomia.
 
 ### **Soft Skills**
 
-Trabalho em equipe, distribuição proporcinal de tarefas, gerenciamento de entregas de valor, gerenciamento de tempo, liderança, comunicação.
+* Trabalho em equipe para a divisão das tarefas do time entre os membros.
+
+* Liderança para facilitar a divisão de tarefas de maneira proporcional entre os membros e garantir a participação de todos.
+
+* Gerenciamento de tempo para definir as prioridades em cada entrega dentro do prazo proposto.
+
+* Comunicação para identificar as dificuldades apresentadas pelo time.
 
 ----
 </details>
@@ -330,15 +351,23 @@ Montagem de Wireframes pela plataforma Figma - sei fazer com autonomia.
 
 Metodologia Scrum - sei fazer com autonomia.
 
-Programação em Javascript com o framework ReactNative para mobile - sei fazer.
+Programação em Javascript com o framework ReactNative para mobile - sei fazer com ajuda.
 
-Treinamento da IA - sei fazer
+Treinamento da IA - sei fazer com ajuda.
 
 ----
 
 ### **Soft Skills**
 
-Trabalho em equipe, gerenciamento de entregas de valor, gerenciamento de tempo, liderança, comunicação, responsabilidade, resolução de problemas.
+* Trabalho em equipe para a divisão das tarefas do time entre os membros.
+
+* Liderança para facilitar a divisão de tarefas de maneira proporcional entre os membros e garantir a participação de todos.
+
+* Gerenciamento de tempo para definir as prioridades em cada entrega dentro do prazo proposto.
+
+* Comunicação para identificar as dificuldades apresentadas pelo time.
+
+* Resolução de Problemas para buscar melhores formas de atingir ao objetivo proposto.
 
 ----
 
