@@ -86,7 +86,7 @@ O projeto foi desenvolvido por um grupo de 5 pessoas, incluindo eu, atuando com 
 
  O desafio do projeto foi proposto pela Fatec juntamente com a Iacit, empresa de soluções tecnológicas, que foi nossa parceira durante esse semestre.
 
-Foi desenvolvido um sistema em Java para desktop, que permitisse o gerenciamento de entegas feitas por caminhão. Por meio do sistema é possível obter informações sobre o motorista, veículo, tempo previsto para a entrega e se o percurso já foi concluido.
+Foi desenvolvido um sistema em Java para desktop, que permitisse o gerenciamento de entregas feitas por caminhão. Por meio do sistema é possível obter informações sobre o motorista, veículo, tempo previsto para a entrega e se o percurso já foi concluído.
 
 ![](https://cdn.discordapp.com/attachments/783201424355885078/983562985534533672/unknown.png)
 
